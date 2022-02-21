@@ -1,6 +1,7 @@
 # Asrock-B460M-ITX-AC-OC-EFI
 适用于华擎 B460M-ITX/AC 主板的 OpenCore EFI.
 
+![](https://github.com/Makiny/Asrock-B460M-ITX-AC-OC-EFI/blob/master/images/system%20info.png)
 ## 硬件配置
 | 项目 | 型号 |
 | --- | --- |
